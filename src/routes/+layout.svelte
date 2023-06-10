@@ -17,7 +17,7 @@
 	import addressPhone from '$lib/assets/icons/icons8_ringer_volume.svg'
 	import addressTime from '$lib/assets/icons/icons8_technical_support.svg'
 
-	let whiteBackgroundOptimized = JSON.parse(data.optimize) // JSON.parse($page.url.searchParams.get('nav_background_optimize')) || false
+	// let whiteBackgroundOptimized = JSON.parse(data.optimize) // JSON.parse($page.url.searchParams.get('nav_background_optimize')) || false
 
 	export let applyTransparency = false
 	export let showingSubRoutes = false
