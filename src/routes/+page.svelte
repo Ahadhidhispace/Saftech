@@ -1,6 +1,6 @@
 <script>
 	import { page } from '$app/stores';
-	export let data;
+	// export let data;
 
 	console.log($page);
 
@@ -411,7 +411,7 @@
         })
     })
 
-    $: console.log(selectedFeatureId)
+    // $: console.log(selectedFeatureId)
 
 
 	// ####################################################################################################
